@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    text-align: center;
+    padding: 20px;
+}
+
+#search-form {
+    margin-bottom: 20px;
+}
+
+#search-results img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
